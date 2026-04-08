@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apurba Datta</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
+https://media.licdn.com/dms/image/v2/D4D16AQH1cbB0PO6Mcg/profile-displaybackgroundimage-shrink_350_1400/B4DZzILSQqKYAY-/0/1772884928176?e=1777507200&v=beta&t=kVOQTB-uD7lxoAbQ6sHxQX0iX2YiBfNIkgOP09Tglhk
+
+
 - 💬 Ask me about **💻 Competitive Programmer & Web Developer Passionate about problem solving and building modern web applications. Skilled in HTML, CSS, Tailwind CSS, JavaScript, React.js, and Next.js. 🚀 Continuously learning and improving.**
 
 - 📫 How to reach me **apurbadatta76761@gmail.com**
