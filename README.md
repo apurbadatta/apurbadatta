@@ -1,48 +1,48 @@
-<img width="100%" src="https://github.com/user-attachments/assets/b1b66c95-2f64-460e-931c-fa8745042b1a" />
+<img width="1584" height="396" alt="Passionate Developer" src="https://github.com/user-attachments/assets/6fc35b2f-f097-4ec6-805c-ca59fc5ad045" />
+
+
 
 <h1 align="center">Hi 👋, I'm Apurba Datta</h1>
-<h3 align="center">💻 MERN Stack Developer | CSE Student | JavaScript Enthusiast</h3>
+<h3 align="center">💻 MERN Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Problem+Solver;JavaScript+Developer;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;JavaScript+Developer;Problem+Solver;Future+Software+Engineer" />
 </p>
 
-<hr/>
+---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Professional Summary
 
-* 🎓 1st Year CSE Student
-* 💻 MERN Stack Developer (React | Node.js | Express | MongoDB)
-* 🧠 Strong interest in Data Structures & Algorithms
-* 🚀 Passionate about building modern and responsive web applications
-* 🌱 Currently learning **Next.js & backend development**
-* 🎯 Goal: Become a skilled Software Engineer
-
-<hr/>
-
-## 🚀 Featured Projects
-
-### 🛒 MERN E-commerce Website
-
-* Full-stack eCommerce application
-* Add to cart, remove items, authentication system
-* Responsive UI using Tailwind CSS
-
-🔗 Repo: https://github.com/YOUR_USERNAME/your-project
+* 💻 MERN Stack Developer experienced in building full-stack web applications
+* ⚙️ Skilled in JavaScript, React, Node.js, Express, MongoDB
+* 🧠 Strong foundation in problem solving and logic building (C, C++)
+* 🚀 Focused on writing clean, scalable, and maintainable code
+* 🌱 Currently learning Next.js and advanced backend concepts
 
 ---
 
-### 🌐 API-Based Dynamic Web App
+## 🚀 Projects
 
-* Built with HTML, CSS, Tailwind CSS
-* Fetches data from external APIs
-* Clean and responsive UI
+### 🛒 E-commerce Web Application
 
-🔗 Live: https://your-live-link.netlify.app
+* Full-stack eCommerce platform with modern UI
+* Cart system and dynamic product management
+* Built using React, Node.js, Express, MongoDB
+
+🔗 Repository: https://github.com/apurbadatta
 
 ---
 
-<hr/>
+### 🌐 API-Based Web Application
+
+* Dynamic web app with API integration
+* Responsive design using Tailwind CSS
+* Clean UI with modern UX principles
+
+<img width="1584" height="396" alt="Passionate Developer" src="https://github.com/user-attachments/assets/f1ee20dc-97ea-49f2-be4e-c0286509d46c" />
+
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -64,42 +64,40 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode" />
 </p>
 
-<hr/>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apurbadatta&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=apurbadatta&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurbadatta&theme=tokyo-night" />
 </p>
 
-<hr/>
+---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/ad-apurba-datta/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:apurbadatta76761@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
-<hr/>
+---
 
-## ⚡ Fun Fact
-
-* 🧩 I enjoy solving problems and building real-world projects
+## ⚡ Statement
 
 <p align="center">
-  ⚡ <i>“Code. Learn. Build. Repeat.”</i>
+  <i>“Focused on continuous learning, clean code, and real-world problem solving.”</i>
 </p>
