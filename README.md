@@ -15,7 +15,7 @@
 
 * 💻 MERN Stack Developer experienced in building full-stack web applications
 * ⚙️ Skilled in JavaScript, React, Node.js, Express, MongoDB
-* 🧠 Strong foundation in problem solving and logic building (C, C++)
+* 🧠 Strong foundation in problem solving and logic building (C,C++)
 * 🚀 Focused on writing clean, scalable, and maintainable code
 * 🌱 Currently learning Next.js and advanced backend concepts
 
