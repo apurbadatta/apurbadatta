@@ -26,7 +26,7 @@
 * Seamless user booking management and interactive search/filter features
 * Built using React, Node.js, Express, MongoDB
 
-🔗 Live Demo: [travel-tour-booking-platform-client.vercel.app](https://travel-tour-booking-platform-client.vercel.app) | Repository: [github.com/apurbadatta](https://github.com/apurbadatta)
+🔗 Live Demo: [travel-tour-booking-platform-client.vercel.app](https://travel-tour-booking-platform-client.vercel.app) | Repository: [github.com/apurbadatta/Travel-Tour-Booking-Platform-client](https://github.com/apurbadatta/Travel-Tour-Booking-Platform-client)
 
 ---
 
