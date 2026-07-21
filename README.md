@@ -21,12 +21,12 @@
 
 ## 🚀 Projects
 
-### 🛒 E-commerce Web Application
-* Full-stack eCommerce platform with modern UI
-* Cart system and dynamic product management
+### ✈️ Travel & Tour Booking Platform
+* Full-stack Travel & Tour Booking Platform with dynamic tour packages and modern UI
+* Seamless user booking management and interactive search/filter features
 * Built using React, Node.js, Express, MongoDB
 
-🔗 Repository: [github.com/apurbadatta/ecommerce-app](https://github.com/apurbadatta)
+🔗 Live Demo: [travel-tour-booking-platform-client.vercel.app](https://travel-tour-booking-platform-client.vercel.app) | Repository: [github.com/apurbadatta](https://github.com/apurbadatta)
 
 ---
 
