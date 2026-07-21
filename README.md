@@ -24,7 +24,7 @@
 ### ✈️ Travel & Tour Booking Platform
 * Full-stack Travel & Tour Booking Platform with dynamic tour packages and modern UI
 * Seamless user booking management and interactive search/filter features
-* Built using React, Node.js, Express, MongoDB
+* Built using React,Next.js Node.js, Express, MongoDB
 
 🔗 Live Demo: [travel-tour-booking-platform-client.vercel.app](https://travel-tour-booking-platform-client.vercel.app) | Repository: [github.com/apurbadatta/Travel-Tour-Booking-Platform-client](https://github.com/apurbadatta/Travel-Tour-Booking-Platform-client)
 
