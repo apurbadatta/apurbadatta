@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Passionate Developer" src="https://github.com/user-attachments/assets/6fc35b2f-f097-4ec6-805c-ca59fc5ad045" />
+<img width="1584" height="396" alt="Passionate Developer" src="https://media.licdn.com/dms/image/v2/D5616AQFQWLTKnKxtmg/profile-displaybackgroundimage-shrink_350_1400/B56Z9mHboSG4AU-/0/1784124652345?e=1785974400&v=beta&t=-abaVO4gTe53yhOomSrUVXwWtrhFyEihQjyBt0jEH6E" />
 
 <h1 align="center">Hi 👋, I'm Apurba Datta</h1>
 <h3 align="center">💻 MERN Stack Developer | Building Scalable Web Applications</h3>
@@ -36,7 +36,7 @@
 * Clean UI with modern UX principles
 
 <p align="center">
-  <img width="1584" height="396" alt="Passionate Developer" src="https://github.com/user-attachments/assets/f1ee20dc-97ea-49f2-be4e-c0286509d46c" />
+  <img width="1584" height="396" alt="Passionate Developer" src="https://media.licdn.com/dms/image/v2/D5616AQFQWLTKnKxtmg/profile-displaybackgroundimage-shrink_350_1400/B56Z9mHboSG4AU-/0/1784124652345?e=1785974400&v=beta&t=-abaVO4gTe53yhOomSrUVXwWtrhFyEihQjyBt0jEH6E" />
 </p>
 
 ---
