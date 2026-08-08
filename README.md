@@ -1,10 +1,10 @@
-<img width="1584" height="396" alt="Passionate Developer" src="https://media.licdn.com/dms/image/v2/D5616AQFQWLTKnKxtmg/profile-displaybackgroundimage-shrink_350_1400/B56Z9mHboSG4AU-/0/1784124652345?e=1785974400&v=beta&t=-abaVO4gTe53yhOomSrUVXwWtrhFyEihQjyBt0jEH6E" />
+<img width="1584" height="396" alt="linkedin_banner_apurba_datta" src="https://github.com/user-attachments/assets/33dd6c5f-f67c-45ba-a62a-fef0d4a58198" />
 
 <h1 align="center">Hi 👋, I'm Apurba Datta</h1>
-<h3 align="center">💻 MERN Stack Developer | Building Scalable Web Applications</h3>
+<h3 align="center">💻 Full Stack Web Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;JavaScript+Developer;Problem+Solver;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;JavaScript+Developer;Problem+Solver;Future+Software+Engineer" />
 </p>
 
 ---
@@ -35,22 +35,18 @@
 * Responsive design using Tailwind CSS
 * Clean UI with modern UX principles
 
-<p align="center">
-  <img width="1584" height="396" alt="Passionate Developer" src="https://media.licdn.com/dms/image/v2/D5616AQFQWLTKnKxtmg/profile-displaybackgroundimage-shrink_350_1400/B56Z9mHboSG4AU-/0/1784124652345?e=1785974400&v=beta&t=-abaVO4gTe53yhOomSrUVXwWtrhFyEihQjyBt0jEH6E" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next" />
 </p>
 
 ### ⚙️ Backend & Tools
