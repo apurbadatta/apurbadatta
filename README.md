@@ -82,6 +82,9 @@
   <a href="mailto:apurbadatta76761@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://apurba-datta-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
 </p>
 
 ---
