@@ -19,6 +19,19 @@
 
 ---
 
+## 📜 Certifications
+
+### 🎓 Complete Web Development Course with Programming Hero
+
+* 🏢 **Issuing Organization:** Programming Hero
+* 🏅 **Batch:** 13
+* 🆔 **Credential ID:** WEB13-3357
+* 📅 **Completed:** August 2026
+* 💻 **Skills:** HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB
+* 🔗 **Verify Certificate:** [Programming Hero Certificate Verification](https://web.programming-hero.com/verification?validationNumber=PHbatch-13WEB13-33571503)
+
+---
+
 ## 🚀 Projects
 
 ### ✈️ Travel & Tour Booking Platform
